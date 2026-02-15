@@ -8,12 +8,12 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 💻 3 years of coding experience in Front-End Development
-- ⚛️ Focused on React, Next.js & TypeScript
-- 🎯 Interested in Performance Optimization & Clean Architecture
-- 🚀 Building modern, responsive and scalable web applications
-- 👥 Passionate about projects, collaboration, and team work
+- 💻 I'm studying Computer Engineering, continuously enhancing my skills in web development, and gaining hands-on experience through personal and team projects.
+-  I have 3 years of coding experience in Front-End Development.
+- ⚛️ Focused on React, Next.js & TypeScript.
+- 🎯 Interested in Performance Optimization & Clean Architecture.
+- 🚀 Building modern, responsive and scalable web applications.
+- 👥 Passionate about projects, collaboration, and team work.
 
 ---
 
