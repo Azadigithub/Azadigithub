@@ -22,7 +22,7 @@
 ## ⚛️ Frontend Core
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,materialui,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,materialui,tailwind&perline=8" />
 </p>
 
 ---
