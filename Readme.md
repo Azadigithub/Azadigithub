@@ -18,8 +18,39 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,git,github,vercel,docker,postman,vscode&perline=7" />
+## ⚛️ Frontend Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,materialui,tailwind&perline=8" />
+</p>
+
+---
+
+## 🔄 Routing & State
+
+React Router DOM  
+React Hook Form  
+
+---
+
+## ✅ Validation
+
+Yup  
+Zod  
+
+---
+
+## 🎨 UI & UX
+
+React Icons  
+React Hot Toast  
+
+---
+
+## 🛠 Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&perline=8" />
 </p>
 
 ---
@@ -32,7 +63,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azadigithub&theme=tokyonight" />
 </p>
 
----
+<!-- ---
 
 ## 🌟 Featured Projects
 
@@ -46,12 +77,12 @@ React + Tailwind + REST API
 Next.js + Chart.js  
 🔗 Live Demo: [View Project](#)
 
----
+--- -->
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ali-azadi-907132359/">
+  <a href="https://www.linkedin.com/in/ali-azadi-907132359/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
