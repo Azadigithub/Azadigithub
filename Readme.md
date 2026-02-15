@@ -13,7 +13,7 @@
 - ⚛️ Focused on React, Next.js & TypeScript
 - 🎯 Interested in Performance Optimization & Clean Architecture
 - 🚀 Building modern, responsive and scalable web applications
-_ 👥 passionate about projects, collaboration, and team work
+- 👥 Passionate about projects, collaboration, and team work
 
 ---
 
