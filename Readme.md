@@ -9,10 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Passionate Front-End Developer
+- 💻 3 years of coding experience in Front-End Development
 - ⚛️ Focused on React, Next.js & TypeScript
 - 🎯 Interested in Performance Optimization & Clean Architecture
 - 🚀 Building modern, responsive and scalable web applications
+_ 👥 passionate about projects, collaboration, and team work
 
 ---
 
@@ -37,8 +38,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Azadigithub&theme=tokyonight" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azadigithub&theme=tokyonight" />
 </p>
 
