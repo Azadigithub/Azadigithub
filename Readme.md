@@ -26,27 +26,6 @@
 
 ---
 
-## 🔄 Routing & State
-
-React Router DOM  
-React Hook Form  
-
----
-
-## ✅ Validation
-
-Yup  
-Zod  
-
----
-
-## 🎨 UI & UX
-
-React Icons  
-React Hot Toast  
-
----
-
 ## 🛠 Tools & DevOps
 
 <p>
@@ -58,7 +37,7 @@ React Hot Toast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azadigithub&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Azadigithub&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azadigithub&theme=tokyonight" />
 </p>
